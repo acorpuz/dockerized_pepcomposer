@@ -1,3 +1,5 @@
+# Pepcomposer files, ignore them!!
+pepcomposer_files/
 # Ignore generic temp file, undo files, etc...
 .~lock.*
 *.sh~
